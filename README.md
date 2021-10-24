@@ -1,6 +1,10 @@
 # Techlabs
 A project in collaboration with local business Pickshare to help them get better understanding about their customers, provide their business partnes with optimal marketing strategies.
 
+Techies:
+1. My Nguyen:  Master student in Digital Transformation at FH Dortmund 
+2. Christoph Klippenstein: Studies mechanical Engineering at TU Dortmund, specialized in mechanical simulations
+3. Shourav Deb Nath: Studies manufacturing Technology (MS) at TU Dortmund 
 
 Make the code run:
 
